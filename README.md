@@ -16,7 +16,6 @@ Este sistema tiene como objetivo mejorar la experiencia del huésped, garantizar
 ## Tecnologías utilizadas 🛠️
 - **Java (NetBeans)**: Desarrollo de la aplicación de escritorio.
 - **MySQL**: Base de datos relacional para almacenar información del sistema.
-- **Adobe XD**: Diseño de interfaces gráficas y prototipos UI/UX.
 - **Arquitectura en capas**: Separación lógica de la aplicación para mayor escalabilidad.
 
 ## Instalación 🔧
