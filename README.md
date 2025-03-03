@@ -48,8 +48,7 @@ Las contribuciones son bienvenidas. Si deseas mejorar el sistema o reportar erro
 - **Crear un issue** para sugerencias o problemas.
 - **Hacer un pull request** con tus mejoras.
 
-## Contacto 🌐
-**Desarrolladores**:
-- **Daniel Eduardo Ibañez Garcia**
-
-Repositorio: **[GitHub - Sistema Hotelero](https://github.com/danieibazgc/Sistema_hotelero)**
+## Conéctate conmigo 🌐
+**Desarrollador**: Daniel Ibañez
+**GitHub**: **[ChrisBaroneYT](https://github.com/Cdanieibazgc)**
+**Correo**: **[LinkedIn](https://www.linkedin.com/in/danieibazgc/)**
