@@ -50,5 +50,5 @@ Las contribuciones son bienvenidas. Si deseas mejorar el sistema o reportar erro
 
 ## Conéctate conmigo 🌐
 **Desarrollador**: Daniel Ibañez
-**GitHub**: **[ChrisBaroneYT](https://github.com/Cdanieibazgc)**
+**GitHub**: **[danieibazgc](https://github.com/danieibazgc)**
 **Correo**: **[LinkedIn](https://www.linkedin.com/in/danieibazgc/)**
