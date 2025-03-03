@@ -49,6 +49,6 @@ Las contribuciones son bienvenidas. Si deseas mejorar el sistema o reportar erro
 - **Hacer un pull request** con tus mejoras.
 
 ## Conéctate conmigo 🌐
-**Desarrollador**: Daniel Ibañez
-**GitHub**: **[danieibazgc](https://github.com/danieibazgc)**
-**Correo**: **[LinkedIn](https://www.linkedin.com/in/danieibazgc/)**
+- **Desarrollador**: Daniel Ibañez
+- **GitHub**: **[danieibazgc](https://github.com/danieibazgc)**
+- **Correo**: **[LinkedIn](https://www.linkedin.com/in/danieibazgc/)**
